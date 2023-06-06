@@ -12,10 +12,6 @@
 ### Github Stats:
 
 <div align="center" markdown="1">
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleonta&theme=github_dark)
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aleonta&theme=github_dark)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleonta&theme=github_dark)
 </div>

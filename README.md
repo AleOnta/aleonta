@@ -1,16 +1,42 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋, I'm Alessandro </h3>
 
-<!--
-**AleOnta/aleonta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=Junior+Full-Stack+Web+Developer;Tech+Enthusiast" alt="Typing SVG" /></a></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">🔍 I'm a tech enthusiast since i was a kid.</p>
+  <p align="center">✏️ I'm a 24 y.o. Epicode junior full-stack web developer student based in Italy.</p>
+  <p align="center">🔭 I’m currently working on my Capstone project with Epicode, you can find it <a href="https://github.com/AleOnta/CapstoneProject-Epicode">here</a>.</p>
+
+---
+
+### Github Stats:
+
+<div align="center" style="display:flex">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleonta&theme=github_dark)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aleonta&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleonta&theme=github_dark)
+</div>
+
+
+### Tools / Knowledge:
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,git,vscode,eclipse,java,spring,hibernate,postgres)](https://skillicons.dev)
+
+
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Discord-9cf?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a> 
+</div>

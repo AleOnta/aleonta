@@ -5,7 +5,7 @@
 
   <p align="center">🔍 I'm a tech enthusiast since i was a kid.</p>
   <p align="center">✏️ I'm a 24 y.o. Epicode junior full-stack web developer student based in Italy.</p>
-  <p align="center">🔭 I’m currently working on my Portfolio, it will be available soon!.</p>
+  <p align="center">🔭 I’m currently working on my Portfolio, it will be available soon!</p>
 
 ---
 

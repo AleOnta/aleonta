@@ -4,8 +4,8 @@
 
 
   <p align="center">🔍 I'm a tech enthusiast since i was a kid.</p>
-  <p align="center">✏️ I'm a 24 y.o. Epicode junior full-stack web developer student based in Italy.</p>
-  <p align="center">🔭 I’m currently working on my Portfolio, it will be available soon!</p>
+  <p align="center">✏️ I'm a 24 y.o. Epicode Junior Full-Stack Web Developer based in Milan, Italy.</p>
+  <p align="center">🔭 currently working in KetchUP Adv</p>
 
 ---
 
@@ -20,7 +20,7 @@
 
 
 ### Tools / Knowledge:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,git,vscode,eclipse,java,spring,hibernate,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,spring,java,py,php,js,laravel,react,tailwind,sass,phpstorm,vscode)](https://skillicons.dev)
 ---
 
 

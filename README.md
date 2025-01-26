@@ -4,7 +4,7 @@
 
 
   <p align="center">🔍 I'm a tech enthusiast since i was a kid.</p>
-  <p align="center">✏️ I'm a 25 y.o. Junior Full-Stack Web Developer based in Milan, Italy.</p>
+  <p align="center">✏️ I'm a 26 y.o. Junior Full-Stack Web Developer based in Milan, Italy.</p>
   <p align="center">🔭 currently working in KetchUP Adv</p>
 
 ---
